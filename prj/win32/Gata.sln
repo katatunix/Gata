@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gata", "Gata.vcxproj", "{F76F3259-E490-496C-9CC6-7AD3D8B0F606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F76F3259-E490-496C-9CC6-7AD3D8B0F606}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F76F3259-E490-496C-9CC6-7AD3D8B0F606}.Debug|Win32.Build.0 = Debug|Win32
+		{F76F3259-E490-496C-9CC6-7AD3D8B0F606}.Release|Win32.ActiveCfg = Release|Win32
+		{F76F3259-E490-496C-9CC6-7AD3D8B0F606}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
